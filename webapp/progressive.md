@@ -1,10 +1,10 @@
----
-title: Progressive Web App
-layout: page
+
+# Progressive Web App
+<!-- layout: page
 category: webapp
 date: 2016-08-14
-modifiedOn: 2016-08-14
----
+--> modifiedOn: 2016-08-14
+
 
 渐进式 Web 应用（progressive Web App）是谷歌2015年提出的方案，主要目的是为了让 Web App 能具有原生应用的性能。
 

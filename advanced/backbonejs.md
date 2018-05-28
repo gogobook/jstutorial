@@ -1,10 +1,10 @@
----
-title: MVC框架与Backbone.js
-layout: page
+
+# MVC框架与Backbone.js
+<!-- layout: page
 category: advanced
 date: 2014-01-15
-modifiedOn: 2014-02-09
----
+--> modifiedOn: 2014-02-09
+
 
 ## MVC框架
 

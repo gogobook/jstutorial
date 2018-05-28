@@ -1,10 +1,10 @@
----
-title: document 对象
-layout: page
+
+# document 对象
+<!-- layout: page
 category: dom
 date: 2014-05-18
-modifiedOn: 2014-05-18
----
+--> modifiedOn: 2014-05-18
+
 
 ## 概述
 

@@ -1,10 +1,10 @@
----
-title: 数值
-layout: page
+
+# 数值
+<!-- layout: page
 category: grammar
 date: 2013-02-13
-modifiedOn: 2013-10-22
----
+--> modifiedOn: 2013-10-22
+
 
 ## 概述
 

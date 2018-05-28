@@ -1,10 +1,10 @@
----
-title: Koa 框架
-layout: page
+
+# Koa 框架
+<!-- layout: page
 category: nodejs
 date: 2015-04-17
-modifiedOn: 2015-04-17
----
+--> modifiedOn: 2015-04-17
+
 
 Koa是一个类似于Express的Web开发框架，创始人也是同一个人。它的主要特点是，使用了ES6的Generator函数，进行了架构的重新设计。也就是说，Koa的原理和内部结构很像Express，但是语法和内部结构进行了升级。
 
@@ -327,7 +327,7 @@ router.get('/:id', ...); // 等同于"/users/:id"
 // 访问 /programming/how-to-node
 router.get('/:category/:title', function *(next) {
   console.log(this.params);
-  // => { category: 'programming', title: 'how-to-node' }
+  // => { category: 'programming', # 'how-to-node' }
 });
 ```
 

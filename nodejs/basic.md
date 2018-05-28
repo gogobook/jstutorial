@@ -1,10 +1,10 @@
----
-title: Node.js 概述
-layout: page
+
+# Node.js 概述
+<!-- layout: page
 category: nodejs
 date: 2013-01-14
-modifiedOn: 2013-12-04
----
+--> modifiedOn: 2013-12-04
+
 
 ## 简介
 

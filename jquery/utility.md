@@ -1,10 +1,10 @@
----
-title: jQuery工具方法
-layout: page
+
+# jQuery工具方法
+<!-- layout: page
 category: jquery
 date: 2013-02-16
-modifiedOn: 2014-01-12
----
+--> modifiedOn: 2014-01-12
+
 
 jQuery函数库提供了一个jQuery对象（简写为$），这个对象本身是一个构造函数，可以用来生成jQuery对象的实例。有了实例以后，就可以调用许多针对实例的方法，它们定义jQuery.prototype对象上面（简写为$.fn）。
 

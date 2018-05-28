@@ -1,10 +1,10 @@
----
-title: jQuery.Deferred对象
+
+# jQuery.Deferred对象
+<!-- layout: page
 category: jquery
 date: 2012-12-07
-layout: page
-modifiedOn: 2013-12-19
----
+--> modifiedOn: 2013-12-19
+
 
 ## 概述
 

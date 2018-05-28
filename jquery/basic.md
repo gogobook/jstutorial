@@ -1,10 +1,10 @@
----
-title: jQuery概述
-layout: page
+
+# jQuery概述
+<!-- layout: page
 category: jquery
 date: 2013-02-01
-modifiedOn: 2013-12-28
----
+--> modifiedOn: 2013-12-28
+
 
 jQuery是目前使用最广泛的JavaScript函数库。据[统计](http://w3techs.com/technologies/details/js-jquery/all/all)，全世界57.5%的网站使用jQuery，在使用JavaScript函数库的网站中，93.0%使用jQuery。它已经成了开发者必须学会的技能。
 

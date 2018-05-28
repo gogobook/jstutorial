@@ -1,10 +1,10 @@
----
-title: 面向对象编程的模式
-layout: page
+
+# 面向对象编程的模式
+<!-- layout: page
 category: oop
 date: 2014-04-06
-modifiedOn: 2014-04-06
----
+--> modifiedOn: 2014-04-06
+
 
 本节介绍 JavaScript 语言实际编程中，涉及面向对象编程的一些模式。
 

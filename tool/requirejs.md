@@ -1,10 +1,10 @@
----
-title: RequireJS和AMD规范
-layout: page
+
+# RequireJS和AMD规范
+<!-- layout: page
 category: tool
 date: 2013-05-05
-modifiedOn: 2013-11-30
----
+--> modifiedOn: 2013-11-30
+
 
 ## 概述
 

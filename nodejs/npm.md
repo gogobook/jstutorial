@@ -1,10 +1,10 @@
----
-title: npm模块管理器
-layout: page
+
+# npm模块管理器
+<!-- layout: page
 category: nodejs
 date: 2014-10-24
-modifiedOn: 2014-10-24
----
+--> modifiedOn: 2014-10-24
+
 
 ## 简介
 

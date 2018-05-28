@@ -1,10 +1,10 @@
----
-title: 属性的操作
+
+# 属性的操作
 category: dom
-layout: page
+<!-- layout: page
 date: 2016-08-23
-modifiedOn: 2016-08-23
----
+--> modifiedOn: 2016-08-23
+
 
 HTML 元素包括标签名和若干个键值对，这个键值对就称为“属性”（attribute）。
 

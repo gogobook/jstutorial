@@ -1,5 +1,5 @@
 ---
-title: 版权声明
+# 版权声明
 layout: homepage
 date: 2013-10-09
 modifiedOn: 2013-10-09

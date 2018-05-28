@@ -1,10 +1,10 @@
----
-title: Datejs
-layout: page
+
+# Datejs
+<!-- layout: page
 category: library
 date: 2013-03-09
-modifiedOn: 2013-03-09
----
+--> modifiedOn: 2013-03-09
+
 
 ## 概述
 

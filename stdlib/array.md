@@ -1,10 +1,10 @@
----
-title: Array 对象
-layout: page
+
+# Array 对象
+<!-- layout: page
 category: stdlib
 date: 2013-05-04
-modifiedOn: 2013-11-29
----
+--> modifiedOn: 2013-11-29
+
 
 ## 构造函数
 

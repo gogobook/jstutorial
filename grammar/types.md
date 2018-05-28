@@ -1,10 +1,10 @@
----
-title: 数据类型
-layout: page
+
+# 数据类型
+<!-- layout: page
 category: grammar
 date: 2016-08-01
-modifiedOn: 2016-08-01
----
+--> modifiedOn: 2016-08-01
+
 
 ## 概述
 

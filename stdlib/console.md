@@ -1,10 +1,10 @@
----
-title: console对象
-layout: page
+
+# console对象
+<!-- layout: page
 category: tool
 date: 2013-03-10
-modifiedOn: 2013-12-03
----
+--> modifiedOn: 2013-12-03
+
 
 `console`对象是 JavaScript 的原生对象，它有点像 Unix 系统的标准输出`stdout`和标准错误`stderr`，可以输出各种信息到控制台，并且还提供了很多有用的辅助方法。
 
@@ -168,7 +168,7 @@ console.table(languages);
 上面代码的`language`变量，转为表格显示如下。
 
 (index)|name|fileExtension
--------|----|-------------
+-|-|-
 0|"JavaScript"|".js"
 1|"TypeScript"|".ts"
 2|"CoffeeScript"|".coffee"
@@ -187,7 +187,7 @@ console.table(languages);
 上面代码的`language`，转为表格显示如下。
 
 (index)|name|paradigm
--------|----|--------
+-|-|--
 csharp|"C#"|"object-oriented"
 fsharp|"F#"|"functional"
 

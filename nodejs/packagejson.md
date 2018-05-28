@@ -1,10 +1,10 @@
----
-title: package.json文件
-layout: page
+
+# package.json文件
+<!-- layout: page
 category: nodejs
 date: 2014-10-24
-modifiedOn: 2014-10-24
----
+--> modifiedOn: 2014-10-24
+
 
 ## 概述
 

@@ -1,10 +1,10 @@
----
-title: JavaScript函数库和插件列表
-layout: page
+
+# JavaScript函数库和插件列表
+<!-- layout: page
 category: appendix
 date: 2014-09-16
-modifiedOn: 2014-09-16
----
+--> modifiedOn: 2014-09-16
+
 
 ## 动画
 

@@ -1,10 +1,10 @@
----
-title: Modernizr
+
+# Modernizr
 category: library
-layout: page
+<!-- layout: page
 date: 2013-03-02
-modifiedOn: 2013-03-02
----
+--> modifiedOn: 2013-03-02
+
 
 ## 概述
 

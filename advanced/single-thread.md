@@ -1,10 +1,10 @@
----
-title: 异步操作概述
-layout: page
+
+# 异步操作概述
+<!-- layout: page
 category: advanced
 date: 2016-08-02
-modifiedOn: 2016-08-02
----
+--> modifiedOn: 2016-08-02
+
 
 ## 单线程模型
 

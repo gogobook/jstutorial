@@ -1,10 +1,10 @@
----
-title: Stream接口
-layout: page
+
+# Stream接口
+<!-- layout: page
 category: nodejs
 date: 2014-10-23
-modifiedOn: 2014-10-23
----
+--> modifiedOn: 2014-10-23
+
 
 数据读写可以看作是事件模式（Event）的特例，不断发送的数据块好比一个个的事件。读数据是`read`事件，写数据是`write`事件，而数据块是事件附带的信息。Node 为这类情况提供了一个特殊接口`Stream`。
 

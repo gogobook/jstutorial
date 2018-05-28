@@ -1,10 +1,10 @@
----
-title: 二进制数组
+
+# 二进制数组
 category: stdlib
-layout: page
+<!-- layout: page
 date: 2013-09-07
-modifiedOn: 2013-09-28
----
+--> modifiedOn: 2013-09-28
+
 
 # 二进制数组
 

@@ -1,10 +1,10 @@
----
-title: RegExp对象
-layout: page
+
+# RegExp对象
+<!-- layout: page
 category: stdlib
 date: 2013-01-17
-modifiedOn: 2014-01-06
----
+--> modifiedOn: 2014-01-06
+
 
 ## 概述
 

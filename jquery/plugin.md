@@ -1,10 +1,10 @@
----
-title: jQuery插件开发
+
+# jQuery插件开发
 category: jquery
-layout: page
+<!-- layout: page
 date: 2013-12-12
-modifiedOn: 2013-12-12
----
+--> modifiedOn: 2013-12-12
+
 
 所谓“插件”，就是用户自己新增的jQuery实例对象的方法。由于该方法要被所有实例共享，所以只能定义在jQuery构造函数的原型对象（prototype）之上。对于用户来说，把一些常用的操作封装成插件（plugin），使用起来会非常方便。
 

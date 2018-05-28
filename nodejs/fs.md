@@ -1,10 +1,10 @@
----
-title: fs 模块
-layout: page
+
+# fs 模块
+<!-- layout: page
 category: nodejs
 date: 2015-02-08
-modifiedOn: 2015-02-08
----
+--> modifiedOn: 2015-02-08
+
 
 `fs`是`filesystem`的缩写，该模块提供本地文件的读写能力，基本上是POSIX文件操作命令的简单包装。但是，这个模块几乎对所有操作提供异步和同步两种操作方式，供开发者选择。
 

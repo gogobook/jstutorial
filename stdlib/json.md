@@ -1,10 +1,10 @@
----
-title: JSON对象
-layout: page
+
+# JSON对象
+<!-- layout: page
 category: stdlib
 date: 2013-01-11
-modifiedOn: 2013-10-01
----
+--> modifiedOn: 2013-10-01
+
 
 ## JSON 格式
 

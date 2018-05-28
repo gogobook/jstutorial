@@ -1,10 +1,10 @@
----
-title: CommonJS规范
-layout: page
+
+# CommonJS 规范
+<!-- layout: page
 category: nodejs
 date: 2013-06-04
-modifiedOn: 2013-08-13
----
+--> modifiedOn: 2013-08-13
+
 
 ## 概述
 

@@ -1,11 +1,10 @@
----
-title: JavaScript语言的历史
+<!-- ---
+# JavaScript语言的历史
 category: introduction
-layout: page
+<!-- layout: page
 date: 2015-11-21
-modifiedOn: 2015-11-21
----
-
+--> modifiedOn: 2015-11-21
+# JavaScript语言的历史
 ## JavaScript的诞生
 
 JavaScript 因为互联网而生，紧随着浏览器的出现而问世。回顾它的历史，就要从浏览器的历史讲起。

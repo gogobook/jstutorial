@@ -1,10 +1,10 @@
----
-title: querystring 模块
-layout: page
+
+# querystring 模块
+<!-- layout: page
 category: nodejs
 data: 2015-06-06
-modifiedOn: 2015-06-06
----
+--> modifiedOn: 2015-06-06
+
 
 `querystring`模块主要用来解析查询字符串。
 

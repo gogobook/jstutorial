@@ -1,10 +1,10 @@
----
-title: Cluster模块
-layout: page
+
+# Cluster模块
+<!-- layout: page
 category: nodejs
 date: 2015-03-08
-modifiedOn: 2015-03-08
----
+--> modifiedOn: 2015-03-08
+
 
 ## 概述
 

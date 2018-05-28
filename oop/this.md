@@ -1,10 +1,10 @@
----
-title: this 关键字
-layout: page
+
+# this 关键字
+<!-- layout: page
 category: oop
 date: 2016-06-28
-modifiedOn: 2016-06-28
----
+--> modifiedOn: 2016-06-28
+
 
 ## 涵义
 

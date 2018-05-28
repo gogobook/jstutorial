@@ -1,10 +1,10 @@
----
-title: String对象
-layout: page
+
+# String对象
+<!-- layout: page
 category: stdlib
 date: 2013-04-30
-modifiedOn: 2014-01-01
----
+--> modifiedOn: 2014-01-01
+
 
 ## 概述
 

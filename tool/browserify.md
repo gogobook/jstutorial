@@ -1,10 +1,10 @@
----
-title: Browserify：浏览器加载Node.js模块
-layout: page
+
+# Browserify：浏览器加载Node.js模块
+<!-- layout: page
 category: tool
 date: 2014-01-02
-modifiedOn: 2014-01-14
----
+--> modifiedOn: 2014-01-14
+
 
 随着JavaScript程序逐渐模块化，在ECMAScript 6推出官方的模块处理方案之前，有两种方案在实践中广泛采用：一种是AMD模块规范，针对模块的异步加载，主要用于浏览器端；另一种是CommonJS规范，针对模块的同步加载，主要用于服务器端，即node.js环境。
 

@@ -1,10 +1,10 @@
----
-title: 对象
-layout: page
+
+# 对象
+<!-- layout: page
 category: grammar
 date: 2012-12-12
-modifiedOn: 2014-01-17
----
+--> modifiedOn: 2014-01-17
+
 
 ## 概述
 

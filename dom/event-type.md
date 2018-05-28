@@ -1,10 +1,10 @@
----
-title: 事件种类
-layout: page
+
+# 事件种类
+<!-- layout: page
 category: dom
 date: 2016-11-20
-modifiedOn: 2016-11-20
----
+--> modifiedOn: 2016-11-20
+
 
 浏览器支持大量的事件，本章介绍其中一些主要的事件。
 
@@ -306,7 +306,7 @@ document.body.addEventListener(
 下表列出不同事件的`target`属性值和`relatedTarget`属性值义。
 
 |事件名称 |target 属性 |relatedTarget 属性 |
-|---------|-----------|------------------|
+||--||
 |focusin |接受焦点的节点 |丧失焦点的节点 |
 |focusout |丧失焦点的节点 |接受焦点的节点 |
 |mouseenter |将要进入的节点 |将要离开的节点 |

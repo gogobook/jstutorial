@@ -1,10 +1,10 @@
----
-title: JavaScript与有限状态机
-layout: page
+
+# JavaScript与有限状态机
+<!-- layout: page
 category: advanced
 date: 2013-09-02
-modifiedOn: 2013-09-03
----
+--> modifiedOn: 2013-09-03
+
 
 ## 概述
 

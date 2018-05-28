@@ -1,10 +1,10 @@
----
-title: Http模块
+
+# Http 模块
 category: nodejs
-layout: page
+<!-- layout: page
 date: 2015-05-30
-modifiedOn: 2015-05-30
----
+--> modifiedOn: 2015-05-30
+
 
 ## http.STATUS_CODES
 

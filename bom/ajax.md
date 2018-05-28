@@ -1,10 +1,10 @@
----
-title: AJAX
-layout: page
+
+# AJAX
+<!-- layout: page
 category: bom
 date: 2013-02-16
-modifiedOn: 2014-02-27
----
+--> modifiedOn: 2014-02-27
+
 
 浏览器与服务器之间，采用HTTP协议通信。用户在浏览器地址栏键入一个网址，或者通过网页表单向服务器提交内容，这时浏览器就会向服务器发出HTTP请求。
 
@@ -745,19 +745,19 @@ The second line.
 第三种方法是POST发送，Encoding type为multipart/form-data。
 
 ```http
-Content-Type: multipart/form-data; boundary=---------------------------314911788813839
+Content-Type: multipart/form-data; boundary=314911788813839
 
------------------------------314911788813839
+--314911788813839
 Content-Disposition: form-data; name="foo"
 
 bar
------------------------------314911788813839
+--314911788813839
 Content-Disposition: form-data; name="baz"
 
 The first line.
 The second line.
 
------------------------------314911788813839--
+--314911788813839--
 ```
 
 第四种方法是GET请求。

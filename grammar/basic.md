@@ -1,10 +1,10 @@
----
-title: 基本语法
-layout: page
+
+# 基本语法
+<!-- layout: page
 category: grammar
 date: 2012-12-14
-modifiedOn: 2013-12-08
----
+--> modifiedOn: 2013-12-08
+
 
 ## 语句
 

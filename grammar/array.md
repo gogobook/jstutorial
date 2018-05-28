@@ -1,10 +1,10 @@
----
-title: 数组
+
+# 数组
 date: 2012-12-11
 category: grammar
-layout: page
-modifiedOn: 2013-11-24
----
+<!-- layout: page
+--> modifiedOn: 2013-11-24
+
 
 ## 定义
 

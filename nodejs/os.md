@@ -1,10 +1,10 @@
----
-title: os模块
+
+# os模块
 category: nodejs
-layout: page
+<!-- layout: page
 date: 2015-03-16
-modifiedOn: 2015-03-16
----
+--> modifiedOn: 2015-03-16
+
 
 os模块提供与操作系统相关的方法。
 

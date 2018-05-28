@@ -1,10 +1,10 @@
----
-title: WebSocket
-layout: page
+
+# WebSocket
+<!-- layout: page
 category: bom 
 date: 2012-12-23
-modifiedOn: 2013-12-05
----
+--> modifiedOn: 2013-12-05
+
 
 ## WebSocket 的由来
 

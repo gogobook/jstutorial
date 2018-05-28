@@ -1,10 +1,10 @@
----
-title: Server-Sent Events
-layout: page
+
+# Server-Sent Events
+<!-- layout: page
 category: htmlapi
 date: 2013-01-07
-modifiedOn: 2013-01-07
----
+--> modifiedOn: 2013-01-07
+
 
 ## 简介
 

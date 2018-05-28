@@ -1,10 +1,10 @@
----
-title: Path模块
+
+# Path模块
 category: nodejs
-layout: page
+<!-- layout: page
 date: 2014-12-29
-modifiedOn: 2014-12-29
----
+--> modifiedOn: 2014-12-29
+
 
 ## path.join()
 

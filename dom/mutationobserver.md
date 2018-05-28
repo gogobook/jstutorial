@@ -1,10 +1,10 @@
----
-title: Mutation Observer API
+
+# Mutation Observer API
 category: dom
-layout: page
+<!-- layout: page
 date: 2013-09-16
-ModifiedOn: 2013-09-16
----
+--> modifiedOn: 2013-09-16
+
 
 ## 概述
 

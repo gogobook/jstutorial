@@ -1,10 +1,10 @@
----
-title: window对象
-layout: page
+
+# window对象
+<!-- layout: page
 category: bom
 date: 2013-09-19
-modifiedOn: 2014-01-12
----
+--> modifiedOn: 2014-01-12
+
 
 ## 概述
 

@@ -1,10 +1,10 @@
----
-title: Buffer对象
-layout: page
+
+# Buffer对象
+<!-- layout: page
 category: nodejs
 date: 2015-06-07
-modifiedOn: 2015-06-07
----
+--> modifiedOn: 2015-06-07
+
 
 ## 概述
 

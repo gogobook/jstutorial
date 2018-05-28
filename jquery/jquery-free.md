@@ -1,10 +1,10 @@
----
-title: 如何做到 jQuery-free？
-layout: page
+
+# 如何做到 jQuery-free？
+<!-- layout: page
 category: jquery
 date: 2013-05-11
-modifiedOn: 2013-10-10
----
+--> modifiedOn: 2013-10-10
+
 
 ## 概述
 

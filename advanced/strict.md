@@ -1,10 +1,10 @@
----
-title: 严格模式
-layout: page
+
+# 严格模式
+<!-- layout: page
 category: advanced
 date: 2013-01-11
-modifiedOn: 2013-01-25
----
+--> modifiedOn: 2013-01-25
+
 
 除了正常的运行模式，JavaScript 还有第二种运行模式：严格模式（strict mode）。顾名思义，这种模式采用更加严格的 JavaScript 语法。
 

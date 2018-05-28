@@ -1,10 +1,10 @@
----
-title: Underscore.js
-layout: page
+
+# Underscore.js
+<!-- layout: page
 category: library
 date: 2012-12-27
-modifiedOn: 2013-10-24
----
+--> modifiedOn: 2013-10-24
+
 
 ## 概述
 
@@ -236,8 +236,8 @@ where方法检查集合中的每个值，返回一个数组，其中的每个成
 ```javascript
 
 _.where(listOfPlays, {author: "Shakespeare", year: 1611});
-// [{title: "Cymbeline", author: "Shakespeare", year: 1611},
-//  {title: "The Tempest", author: "Shakespeare", year: 1611}]
+// [{# "Cymbeline", author: "Shakespeare", year: 1611},
+//  {# "The Tempest", author: "Shakespeare", year: 1611}]
 
 ```
 
@@ -606,7 +606,7 @@ _.template("Hello <%=obj.user%>!", { user: "<Jane>" })
 
 {% highlight javascript %}
 
-_.template("<%if (data.title) { %>Title: <%= title %><% } %>", null,
+_.template("<%if (data.title) { %># <%= title %><% } %>", null,
                 { variable: "data" });
 
 {% endhighlight %}

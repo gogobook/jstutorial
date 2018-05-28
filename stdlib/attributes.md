@@ -1,10 +1,10 @@
----
-title: 属性描述对象
-layout: page
+
+# 属性描述对象
+<!-- layout: page
 category: stdlib
 date: 2016-06-29
-modifiedOn: 2016-06-29
----
+--> modifiedOn: 2016-06-29
+
 
 ## 概述
 

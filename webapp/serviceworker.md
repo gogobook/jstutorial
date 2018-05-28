@@ -1,10 +1,10 @@
----
-title: Service Worker
-layout: page
+
+# Service Worker
+<!-- layout: page
 category: webapp
 date: 2016-08-14
-modifiedOn: 2016-08-14
----
+--> modifiedOn: 2016-08-14
+
 
 ## Service worker 是什么？
 

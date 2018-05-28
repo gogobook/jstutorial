@@ -1,10 +1,10 @@
----
-title: MongoDB的应用
-layout: page
+
+# MongoDB的应用
+<!-- layout: page
 category: nodejs
 date: 2014-01-19
-modifiedOn: 2014-01-19
----
+--> modifiedOn: 2014-01-19
+
 
 MongoDB是目前最流行的noSQL数据库之一，它是专为Node开发的。
 

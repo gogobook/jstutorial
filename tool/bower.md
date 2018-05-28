@@ -1,10 +1,10 @@
----
-title: Bower：客户端库管理工具
-layout: page
+
+# Bower：客户端库管理工具
+<!-- layout: page
 category: tool
 date: 2014-01-01
-modifiedOn: 2014-01-01
----
+--> modifiedOn: 2014-01-01
+
 
 ## 概述
 

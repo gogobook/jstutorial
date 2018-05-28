@@ -1,10 +1,10 @@
----
-title: Express框架
+
+# Express框架
 category: nodejs
-layout: page
+<!-- layout: page
 date: 2013-09-13
-modifiedOn: 2013-10-04
----
+--> modifiedOn: 2013-10-04
+
 
 ## 概述
 
@@ -864,16 +864,16 @@ app.engine('html', hbs.__express);
 app.use(express.bodyParser());
 
 app.get('/', function(req, res) {
-   res.render('index',{title:"最近文章", entries:blogEngine.getBlogEntries()});
+   res.render('index',{#"最近文章", entries:blogEngine.getBlogEntries()});
 });
 
 app.get('/about', function(req, res) {
-   res.render('about', {title:"自我介绍"});
+   res.render('about', {#"自我介绍"});
 });
 
 app.get('/article/:id', function(req, res) {
    var entry = blogEngine.getBlogEntry(req.params.id);
-   res.render('article',{title:entry.title, blog:entry});
+   res.render('article',{#entry.title, blog:entry});
 });
 
 app.listen(3000);

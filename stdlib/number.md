@@ -1,10 +1,10 @@
----
-title: Number对象
-layout: page
+
+# Number对象
+<!-- layout: page
 category: stdlib
 date: 2013-03-16
-modifiedOn: 2014-01-01
----
+--> modifiedOn: 2014-01-01
+
 
 ## 概述
 

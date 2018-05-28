@@ -1,10 +1,10 @@
----
-title: CORS通信
-layout: page
+
+# CORS通信
+<!-- layout: page
 category: bom
 date: 2016-04-09
-modifiedOn: 2016-04-08
----
+--> modifiedOn: 2016-04-08
+
 
 CORS是一个W3C标准，全称是“跨域资源共享”（Cross-origin resource sharing）。
 

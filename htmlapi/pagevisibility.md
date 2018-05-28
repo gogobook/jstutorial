@@ -1,10 +1,10 @@
----
-title: Page Visibility API
-layout: page
+
+# Page Visibility API
+<!-- layout: page
 date: 2012-11-20
 category: htmlapi
-modifiedOn: 2013-09-26
----
+--> modifiedOn: 2013-09-26
+
 
 ## 简介
 
